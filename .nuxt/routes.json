@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Chmura\\\\Programowanie\\\\vue-shop\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "D:\\\\Chmura\\\\Programowanie\\\\vue-shop\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "products-productId",
+    "path": "/products/:productId",
+    "component": "D:\\\\Chmura\\\\Programowanie\\\\vue-shop\\\\pages\\\\products\\\\_productId.vue",
+    "chunkName": "pages/products/_productId"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Chmura\\\\Programowanie\\\\vue-shop\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

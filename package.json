@@ -1,0 +1,26 @@
+{
+  "name": "vue-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbra1155/vue-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattbra1155/vue-shop/issues"
+  },
+  "homepage": "https://github.com/mattbra1155/vue-shop#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nuxt": "^2.13.3",
+    "v-tooltip": "^2.0.3"
+  }
+}
